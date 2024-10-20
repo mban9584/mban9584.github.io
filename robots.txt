@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: localhost/sitemap.xml
+Sitemap: https://mban9584.github.io/sitemap.xml
